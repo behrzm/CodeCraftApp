@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.prolearn.codecraftfront",
+      "sha256_cert_fingerprints": ["7A:9D:5E:9D:8E:99:5A:44:08:EA:47:27:AF:AC:88:48:09:24:5C:A2:B0:13:63:73:B3:5F:29:BB:22:2D:2A:4E"]
+    }
+  }
+]
